@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:setstatemen/counter_model.dart';
-import 'package:setstatemen/home_page.dart';
+import 'package:statement_main/counter_model.dart';
+import 'package:statement_main/home_page.dart';
 
 void main() {
   runApp(
